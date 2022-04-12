@@ -55,7 +55,7 @@ enableGitInfo = false
 
   # Your details.
   name = "李子然"
-  role = "北京邮电大学"
+  role = ""
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
