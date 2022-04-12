@@ -23,12 +23,12 @@ weight = 5
 [[education.courses]]
   course = "信息管理与信息系统"
   institution = "北京邮电大学"
-  year = 2021.09...2022.06
+  year = 2021.09.2022.06
  
 [[education.courses]]
   course = "光电信息科学与工程"
   institution = "北京邮电大学"
-  year = 2017.01...2021.06
+  year = 2017.01.2021.06
 
 
  
