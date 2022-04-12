@@ -10,23 +10,25 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Plant disease resistance",
-    "plant hormone",
-    "bioinformatics",
-    "Data science"
+    "通信原理",
+    "信号与系统",
+    "数字电路与逻辑设计",
+    "光纤通信系统",
+    "计算机体系结构",
+    "C语言程序设计",
   ]
 
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
-  course = "Forthcoming update "
-  institution = "Forthcoming update"
-  year = 2022
+  course = "信息管理与信息系统 "
+  institution = "北京邮电大学"
+  year = 2021.09 - 至今
   
 [[education.courses]]
-  course = "Postgraduate in crop genetic and breeding"
-  institution = "NAU"
-  year = 2015
+  course = "光电信息科学与工程"
+  institution = "北京邮电大学"
+  year = 2017.01 - 2021.06
 
 
  
