@@ -28,10 +28,6 @@ weight = 5
   institution = "NAU"
   year = 2015
 
-[[education.courses]]
-  course = "Bachelor horticulture science in college of horticulture"
-  institution = "HNAU"
-  year = 2011
 
  
 +++
