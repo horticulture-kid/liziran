@@ -15,7 +15,7 @@ weight = 5
     "数字电路与逻辑设计",
     "光纤通信系统",
     "计算机体系结构",
-    "C语言程序设计",
+    "C语言程序设计"
   ]
 
 # List your qualifications (such as academic degrees).
