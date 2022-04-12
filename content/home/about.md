@@ -18,7 +18,6 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 
-
 [[education.courses]]
   course = "信息管理与信息系统"
   institution = "北京邮电大学"
