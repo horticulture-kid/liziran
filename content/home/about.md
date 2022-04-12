@@ -18,20 +18,16 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 
-[[education.courses]]
-  course = "Forthcoming update "
-  institution = "Forthcoming update"
-  year = 2022
-  
+
 [[education.courses]]
   course = "信息管理与信息系统"
-  institution = "NAU"
-  year = 2015
+  institution = "北京邮电大学"
+  year = 2021.09 - 至今
 
 [[education.courses]]
   course = "光电信息科学与工程"
-  institution = "HNAU"
-  year = 2011
+  institution = "北京邮电大学"
+  year = 2017.01 - 2021.06
 
  
 +++
