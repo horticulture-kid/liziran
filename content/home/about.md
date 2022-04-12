@@ -24,12 +24,12 @@ weight = 5
   year = 2022
   
 [[education.courses]]
-  course = "Postgraduate in crop genetic and breeding"
+  course = "信息管理与信息系统"
   institution = "NAU"
   year = 2015
 
 [[education.courses]]
-  course = "Bachelor horticulture science in college of horticulture"
+  course = "光电信息科学与工程"
   institution = "HNAU"
   year = 2011
 
