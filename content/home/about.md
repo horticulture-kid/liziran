@@ -21,14 +21,14 @@ weight = 5
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
-  course = "信息管理与信息系统 "
+  course = "信息管理与信息系统"
   institution = "北京邮电大学"
-  year = 2021.09 - 至今
-  
+  year = 2021.09年至今
+ 
 [[education.courses]]
   course = "光电信息科学与工程"
   institution = "北京邮电大学"
-  year = 2017.01 - 2021.06
+  year = 2017.01至2021.06
 
 
  
