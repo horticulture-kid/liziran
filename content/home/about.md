@@ -23,7 +23,7 @@ weight = 5
 [[education.courses]]
   course = "信息管理与信息系统"
   institution = "北京邮电大学"
-  year = 2021.09年至今
+  year = 2021.09至2022.06
  
 [[education.courses]]
   course = "光电信息科学与工程"
