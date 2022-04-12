@@ -10,7 +10,7 @@ title = "liziran's website"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2022"
 footnotereturnlinkcontents = "<sup>^</sup>"
 theme = "hugo-academic"
 enableEmoji = true
@@ -54,17 +54,17 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Wang Zhen"
-  role = "Student of NAU"
+  name = "李子然"
+  role = "北京邮电大学"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Nanjing Agricultural University", url = "http://www.njau.edu.cn/" } ]
+  organizations = [ { name = "北京邮电大学", url = "https://www.bupt.edu.cn/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "2015104052@njau.edu.cn"
-  address = "中国南京卫岗一号"
+  email = ""
+  address = "贵阳"
   office_hours = "Weekday 10:00 to 13:00 or email for appointment"
   phone = "888 888 88 88"
   telegram = ""

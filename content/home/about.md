@@ -28,12 +28,12 @@ weight = 5
 [[education.courses]]
   course = "光电信息科学与工程"
   institution = "北京邮电大学"
-  year = 2017.01
+  year = "2017.01-2021.06"
 
 
  
 +++
 
-# Bioagriculture and Biostatistics
+# 光电信息科学与工程
 
 next i will update this page!
