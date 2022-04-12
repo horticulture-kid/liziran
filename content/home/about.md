@@ -22,16 +22,16 @@ weight = 5
   course = "Forthcoming update "
   institution = "Forthcoming update"
   year = 2022
+  
+[[education.courses]]
+  course = "Postgraduate in crop genetic and breeding"
+  institution = "NAU"
+  year = 2015
 
 [[education.courses]]
-  course = "信息管理与信息系统"
-  institution = "北京邮电大学"
-  year = 2021.09 - 至今
-
-[[education.courses]]
-  course = "光电信息科学与工程"
-  institution = "北京邮电大学"
-  year = 2017.01 - 2021.06
+  course = "Bachelor horticulture science in college of horticulture"
+  institution = "HNAU"
+  year = 2011
 
  
 +++
